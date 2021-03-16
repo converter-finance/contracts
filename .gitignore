@@ -1,0 +1,9 @@
+.idea
+/node_modules/
+build
+.key
+.secret
+/coverage.json
+/coverage/
+/.coverage_artifacts/
+/.coverage_contracts/
